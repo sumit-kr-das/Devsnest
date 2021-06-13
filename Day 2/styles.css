@@ -1,0 +1,19 @@
+body {
+  background-color: lightgrey;
+  font-family: arial;
+}
+span {
+  border-bottom: 3px solid chartreuse;
+  display: inline-block;
+  line-height: 0.5;
+}
+h1 {
+  color: green;
+}
+.first-para {
+  font-weight: bold;
+  color: goldenrod;
+}
+.second-para {
+  color: indigo;
+}
