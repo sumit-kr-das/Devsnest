@@ -1,0 +1,29 @@
+
+.templates {
+    text-align: center;
+}
+
+.template {
+    width: calc(100%/3);
+    display: inline-block;
+}
+
+.image {
+    height: 50vh;
+    width: 100%;
+}
+.meme {
+    text-align: center;
+}
+.meme img{
+    max-height: 50vh;
+    border: 1px solid;
+}
+
+.meme input {
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
